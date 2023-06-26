@@ -3,7 +3,7 @@ echo "School"
 
 =======
 #!/bin/bash
-echo "School"
+echo "The school is open!"
 
 
 >>>>>>> 4cb90d1a3031204136471c6aab47bc18324381e8
